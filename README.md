@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayani</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning **Next.js ,JavaSpring Boot ,Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ksayani10](https://github.com/ksayani10)
 
