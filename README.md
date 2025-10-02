@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ksayani10](https://github.com/ksayani10)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **sayanikathir1010@gmail.com**
 
@@ -16,21 +16,20 @@
 
 
 
-## 🛠️ Technologies & Tools
+## 🧰 Technologies & Tools
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" />
-</p>
-
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 
 ### 🖥️ Backend & Database
-<p align ="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=fff)
+
 
 
 ---
@@ -47,6 +46,7 @@
  - **Next.js**-A React framework for building full-stack web apps
  - **JavaSpring Boot**-An opinionated framework on top of Spring that lets you create production-ready REST APIs and microservices fast.
  - **Flutter**-Google’s UI toolkit for building natively compiled apps for iOS, Android, web, and desktop from a single Dart codebase.
+ - **TypeScript**- Frontend .
 ---
 
 ## ⚡ Fun fact 
